@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">LocalKeyHook</string>
+    <string name="button_dialog">Dialog</string>
+    <string name="button_window">Window</string>
+    <string name="button_main_activity">Main Activity</string>
+    <string name="button_another_activity">Another Activity</string>
+    <string name="button_another_process">Another Process</string>
+</resources>
